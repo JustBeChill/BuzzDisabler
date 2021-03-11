@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "BuzzDisabler",
+  "name": "BuzzDisabler",
+  "author": "JustBeChill",
+  "version": "1.0.0",
+  "description": "Disables the annoying buzzing sound that comes from the neon sign in the newest update",
+  "gameVersion": "1.13.4",
+  "dependsOn": {
+    "BSIPA": "^4.1.4"
+  },
+  "features": []
+}
